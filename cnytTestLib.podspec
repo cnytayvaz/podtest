@@ -9,5 +9,5 @@ Pod::Spec.new do |s|
 
     s.platform = :ios
     s.source = { :git => 'https://github.com/cnytayvaz/podtest.git', :tag => "cnyt/test/0.0.3" }
-    s.ios.vendored_frameworks = 'cnyt.framework'
+    s.ios.vendored_frameworks = 'ConnectSnapshot.framework'
 end
