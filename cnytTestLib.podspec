@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
     s.name = 'cnytTestLib'
     s.version = '0.0.1'
-    s.summary = 'A short description of cnytTestLib.'
+    s.summary = 'cnytTestLib library is a dummy library.'
     s.homepage = "https://github.com/cnytayvaz/podtest"
 
     s.author = { 'Cuneyt Ayvaz' => 'cnyt.ayvaz@gmail.com' }
